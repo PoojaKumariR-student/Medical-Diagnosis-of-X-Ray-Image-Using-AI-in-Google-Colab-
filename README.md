@@ -43,7 +43,7 @@ Link : https://colab.research.google.com/drive/156ppc9ctkR7GIIIhc0d5XUOh30BzAU9-
 
 Images taken from google image
 
-1. Normal_posteroanterior_(PA)_chest_radiograph_(X-Ray).jpg
+1. Normal_posteroanterior_(PA)__chest_radiograph__(X-Ray).jpg
 2. images.jpg
 
 
