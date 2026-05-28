@@ -27,7 +27,7 @@ The project focuses on developing an Artificial Intelligence-based medical diagn
 ------
 🔗 DATASET LINK :
 
-Kaggle URL : Dataset URL: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+Kaggle URL : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
 --------
