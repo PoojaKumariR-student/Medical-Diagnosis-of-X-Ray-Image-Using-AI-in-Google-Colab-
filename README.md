@@ -90,7 +90,7 @@ Images taken from google image
 
 
 ------
-ADVANTAGES : 
+🎗️ ADVANTAGES : 
 
 → Automated chest disease detection
 
@@ -110,7 +110,7 @@ ADVANTAGES :
 
 
 -------
-FUTURE SCOPE : 
+💡 FUTURE SCOPE : 
 
 → Real-time chest X-Ray diagnosis system.
 
@@ -126,6 +126,6 @@ FUTURE SCOPE :
 
 
 -------
-CONCLUSION :
+📌 CONCLUSION :
 
 The project successfully implemented AI-based chest X-Ray disease detection using ResNet, VGG, and Grad-CAM techniques. The CNN models effectively classified chest X-Ray images and improved diagnostic accuracy. Grad-CAM visualization highlighted important regions influencing the model predictions and enhanced interpretability. Overall, it demonstrates the effectiveness of Explainable AI in medical image diagnosis and healthcare applications.
